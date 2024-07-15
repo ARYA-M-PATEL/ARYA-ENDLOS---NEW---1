@@ -1,0 +1,129 @@
+
+I have Done Projects In Endlos 
+
+	1: (1) Asofta html , css
+	   (2) Asofta bootstrap
+	   (3) make Responsive Whole project Multiple times
+
+	2: E.visa 
+	   (1) Form
+	   (2) Check ltr and rtl
+
+	3: rice brand
+	   (1) Make Responsive
+
+	4: service web site
+
+	5: endlos furniture  : https://www.endlos.furniture/
+	   (1) Change And Built Whole About Us Page Whith Responsive
+	   (2) add AAHOA Logo
+	   (3) add some Products and images
+	   (4) VALUABLE CUSTOMERS Logos Slider
+	   (5) Add social media Icon and Links
+
+	6: jd gurus : https://www.endlos.tech/jdgurus/	
+	   (1) Built Whole Project using Templete
+
+	7: Dolphin Chemicals
+
+	8: add social media Icon in one endlos innovation login page
+
+	9: also make Some Practice Projects 
+	
+
+	Links For Web site refference
+	https://www.elfbar.com/product-list.html
+
+
+
+
+
+
+===================Arya Javascript====================
+namste javascript
+chai our code js
+learn vern
+
+best json formatter   use for convert API in formate
+
+
+json formatter is a convert api in a formate
+
+
+					COMMANDS FOR GITHUB
+	   [
+
+           **********…or create a new repository on the command line ***************
+
+           echo "# abcd" >> README.md
+           git init
+	   git add README.md
+	   git commit -m "first commit"
+	   git branch -M main
+	   git remote add origin https://github.com/ARYA-M-PATEL/arya.git
+	   git push -u origin main
+
+           **************…or push an existing repository from the command line***********
+           git remote add origin git@github.com:aryapatel2003/learning_codes.git
+           git branch -M main
+           git push -u origin main
+
+           ]
+
+
+
+	cammonds for :: add changes in exiting project on js
+{
+	[
+	git add .
+	git status
+	git commit -m "added changes"
+	git push origin main / master
+	] OR 
+	
+	click on commit button and synnce button
+}
+
+learn :: JQUERY
+learn various graphics tools like "canva" "Ai(adobe illustrator)"
+
+get daily updates of HTML , CSS ,BOOTSTRAP, JS .....etc
+
+
+
+				***** Question for Preparation *****
+	Types of tag :1-Paired and Unpaired Tags 
+
+[Paired Tags--
+An HTML tag is known as a paired tag when the tag consists of an opening tag and a closing tag as its companion tag. An HTML Paired tag starts with an opening tag: the tag name enclosed inside the angle brackets; for example, a paragraph opening tag is written as ‘<p>’. The content follows the opening tag, which ends with an ending tag: the tag name starting with a forward slash; for example, an ending paragraph tag is written as ‘</p>’. The first tag can be referred to as the ‘Opening Tag’, and the second tag can be called Closing Tag.]
+
+[Unpaired Tags--
+An HTML tag is called an unpaired tag when the tag only has an opening tag and does not have a closing tag or a companion tag. The Unpaired HTML tag does not require a closing tag; an opening tag is sufficient in this type. Unpaired tags are sometimes also named as Standalone Tags or Singular Tags since they do not require a companion tag.]
+
+
+
+21-05-2024 : dolphin web site
+		make responsive this
+	     Javascript 
+		learn some topic in js like bgchangeing color
+
+
+
+
+				Endlos Tech Project
+		> Dolpihin Chemicals 
+
+		> Construction Websites Refference links
+			1. https://preview.themeforest.net/item/renovation-construction-company-					theme/full_screen_preview/9014411?_ga=2.185369386.200486258.1718604198-					778046972.1708575255
+	
+			2. https://preview.themeforest.net/item/renovar-construction-company-wordpress-			    theme/full_screen_preview/36441042?_ga=2.185937450.200486258.1718604198-			    778046972.1708575255
+
+			3. https://html.themeholy.com/kotar/demo/home-company.html
+
+			4. https://preview.themeforest.net/item/konsta-construction-company-html5-			   template/full_screen_preview/51888937?_ga=2.163597116.200486258.1718604198-			   778046972.1708575255
+
+			5. Best For using Custom code
+  			    https://preview.themeforest.net/item/axial-construction-company-website-			   template/full_screen_preview/34584396?_ga=2.197029807.200486258.1718604198-			  778046972.1708575255
+		
+
+

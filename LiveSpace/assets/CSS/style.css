@@ -1,0 +1,235 @@
+/* @font-face {
+  font-family: "OpenSans-Bold";
+  src: url("../font/OpenSans-Bold.ttf");
+} */
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("../fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Light";
+  src: url("../fonts/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url("../fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("../fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Thin";
+  src: url("../fonts/Poppins-Thin.ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins-Regular";
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.fw-300 {
+  font-weight: 300;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+section {
+  overflow-x: hidden;
+}
+
+section,
+.row {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.nav,
+.container-fluid,
+ul,
+ol,
+li,
+a {
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+input,
+select,
+button {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-weight: 200;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  --heading: #002968;
+  --para: #777777;
+  --black: #212121;
+  --para-tint: #e4e4e4;
+  --white: #ffffff;
+  --bg-light-blue: #e3f0fb;
+  --bg-color: #f9f9f9;
+  --icon-bg: rgba(144, 172, 209, 0.2);
+  --gradient: linear-gradient(90deg, rgb(132 144 255) 0%, rgb(98 189 252) 100%);
+  --box-shadow: 0 15px 15px 0 rgb(132 144 255 / 30%);
+  --hover-color: #2f7aeb;
+  --btn-padding: 10px 20px;
+}
+
+.black {
+  color: var(--black);
+}
+
+.white {
+  color: var(--white);
+}
+
+.title {
+  color: var(--heading);
+}
+
+.grey {
+  color: var(--para-tint);
+}
+
+.para {
+  color: var(--para);
+}
+
+.bg-blue {
+  background: var(--heading);
+}
+
+.bg-light-blue {
+  background: var(--bg-light-blue);
+}
+
+.bg-black {
+  background: var(--black);
+}
+
+.bg-white {
+  background: var(--white);
+}
+
+.box-shadow {
+  box-shadow: var(--box-shadow);
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 0.5px;
+}
+
+h2 {
+  font-size: 40px;
+  letter-spacing: 0.5px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 36px;
+  letter-spacing: 0.5px;
+}
+
+h4 {
+  font-size: 30px;
+  letter-spacing: 0.5px;
+}
+
+h5 {
+  font-size: 24px;
+  letter-spacing: 0.5px;
+}
+
+h6 {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+li a,
+button,
+p {
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+button {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.row {
+  width: 100%;
+  padding: 0;
+  overflow-x: hidden;
+}
